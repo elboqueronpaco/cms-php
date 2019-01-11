@@ -59,3 +59,5 @@ typings/
 
 # next.js build output
 .next
+# variable de entorno
+/config/db.php
